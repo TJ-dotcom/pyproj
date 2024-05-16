@@ -1,0 +1,66 @@
+{
+  "price": [
+    0,
+    26590000
+  ],
+  "bathroom": [
+    0,
+    8
+  ],
+  "sqft_living": [
+    638,
+    1074218
+  ],
+  "sqft_lot": [
+    6.0,
+    
+  ],
+  "floors": [
+    1,
+    3.5
+  ],
+  "waterfront": [
+    0,
+    1
+  ],
+  "view": [
+    0,
+    4
+  ],
+  "condition": [
+    1,
+    5
+  ],
+"sqft_above": [
+    370,
+    9410
+  ],
+"sqft_base": [
+    0,
+    4820
+  ],
+"yr_built": [
+    1900,
+    2014
+  ],
+"yr_renovated": [
+    0,
+    2014
+  ],
+"city": [
+    "Seattle",
+    "Bellevue",
+    "Issaquah",
+    "Federal Way",
+    "Kirkland",
+    "Kenmore",
+    "Shoreline",
+    "Renton",
+    "Pacific",
+    "New Castle",
+    "Milton",
+    "Fall City",
+    "Redmond",
+    "Covington"
+  ],
+}
