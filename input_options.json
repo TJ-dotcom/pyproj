@@ -3,7 +3,7 @@
     0,
     26590000
   ],
-  "bathroom": [
+  "bathrooms": [
     0,
     8
   ],
@@ -35,7 +35,7 @@
     370.0,
     9410.0
   ],
-  "sqft_base": [
+  "sqft_basement": [
     0.0,
     4820.0
   ],
@@ -46,5 +46,181 @@
   "yr_renovated": [
     0,
     2014
+  ],
+  "city_Algona": [
+    0,
+    1
+  ],
+  "city_Auburn": [
+    0,
+    1
+  ],
+  "city_Beaux Arts Village": [
+    0,
+    1
+  ],
+  "city_Bellevue": [
+    0,
+    1
+  ],
+  "city_Black Diamond": [
+    0,
+    1
+  ],
+  "city_Bothell": [
+    0,
+    1
+  ],
+  "city_Burien": [
+    0,
+    1
+  ],
+  "city_Carnation": [
+    0,
+    1
+  ],
+  "city_Clyde Hill": [
+    0,
+    1
+  ],
+  "city_Covington": [
+    0,
+    1
+  ],
+  "city_Des Moines": [
+    0,
+    1
+  ],
+  "city_Duvall": [
+    0,
+    1
+  ],
+  "city_Enumclaw": [
+    0,
+    1
+  ],
+  "city_Fall City": [
+    0,
+    1
+  ],
+  "city_Federal Way": [
+    0,
+    1
+  ],
+  "city_Inglewood-Finn Hill": [
+    0,
+    1
+  ],
+  "city_Issaquah": [
+    0,
+    1
+  ],
+  "city_Kenmore": [
+    0,
+    1
+  ],
+  "city_Kent": [
+    0,
+    1
+  ],
+  "city_Kirkland": [
+    0,
+    1
+  ],
+  "city_Lake Forest Park": [
+    0,
+    1
+  ],
+  "city_Maple Valley": [
+    0,
+    1
+  ],
+  "city_Medina": [
+    0,
+    1
+  ],
+  "city_Mercer Island": [
+    0,
+    1
+  ],
+  "city_Milton": [
+    0,
+    1
+  ],
+  "city_Newcastle": [
+    0,
+    1
+  ],
+  "city_Normandy Park": [
+    0,
+    1
+  ],
+  "city_North Bend": [
+    0,
+    1
+  ],
+  "city_Pacific": [
+    0,
+    1
+  ],
+  "city_Preston": [
+    0,
+    1
+  ],
+  "city_Ravensdale": [
+    0,
+    1
+  ],
+  "city_Redmond": [
+    0,
+    1
+  ],
+  "city_Renton": [
+    0,
+    1
+  ],
+  "city_Sammamish": [
+    0,
+    1
+  ],
+  "city_SeaTac": [
+    0,
+    1
+  ],
+  "city_Seattle": [
+    0,
+    1
+  ],
+  "city_Shoreline": [
+    0,
+    1
+  ],
+  "city_Skykomish": [
+    0,
+    1
+  ],
+  "city_Snoqualmie": [
+    0,
+    1
+  ],
+  "city_Snoqualmie Pass": [
+    0,
+    1
+  ],
+  "city_Tukwila": [
+    0,
+    1
+  ],
+  "city_Vashon": [
+    0,
+    1
+  ],
+  "city_Woodinville": [
+    0,
+    1
+  ],
+  "city_Yarrow Point": [
+    0,
+    1
   ]
 }
