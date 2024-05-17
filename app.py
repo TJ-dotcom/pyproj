@@ -26,23 +26,25 @@ with open('input_options.json') as f:
 st.write(options)
 
 if st.button('Predict'):
-    # Prepare the input data as a DataFrame
     input_data = {key: [value] for key, value in options.items()}
     input_df = pd.DataFrame(input_data)
 
-    # Convert DataFrame to JSON
-    payload = input_df.to_json(orient='split')
+    payload = {
+        "dataframe_split": {
+            "columns": input_df.columns.tolist(),
+            "data": input_df.values.tolist()
+        }
+    }
 
     try:
         response = requests.post(
             url="http://64.225.10.251:5001/invocations",
-            data=payload,
+            json=payload,
             headers={"Content-Type": "application/json"},
         )
 
         if response.status_code == 200:
             try:
-                # Parse the JSON response
                 prediction = response.json().get('predictions')[0]
                 st.write(f'The predicted median house value is: ${prediction:,}')
             except json.JSONDecodeError:
