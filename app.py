@@ -32,7 +32,7 @@ if st.button('Predict'):
     try:
 
         response = requests.post(
-            url="http://64.225.10.251:5001/invocations",
+            url="64.225.10.251/invocations",
             data=payload,
             headers={"Content-Type": "application/json"},
         )
